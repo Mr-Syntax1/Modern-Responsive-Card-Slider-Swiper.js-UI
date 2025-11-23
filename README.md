@@ -62,4 +62,5 @@ You can clone or download this project using Git:
 
 ```bash
 git clone https://github.com/Mr-Syntax1/Modern-Responsive-Card-Slider-Swiper.js-UI.git
+```bash
 cd Modern-Responsive-Card-Slider-Swiper.js-UI
