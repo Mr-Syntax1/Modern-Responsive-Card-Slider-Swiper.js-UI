@@ -61,5 +61,5 @@ This project uses modern web standards and tools:
 You can clone or download this project using Git:
 
 ```bash
-git clone https://github.com/your-username/swiper-slider-project.git
-cd swiper-slider-project
+git clone https://github.com/Mr-Syntax1/Modern-Responsive-Card-Slider-Swiper.js-UI.git
+cd Modern-Responsive-Card-Slider-Swiper.js-UI
