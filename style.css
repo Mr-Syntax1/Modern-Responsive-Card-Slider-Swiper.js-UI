@@ -205,7 +205,7 @@ body{
         margin: 0 10px 25px;
     }
 
-    .wrapper :where(.swiper-button-prev , .swiper-button-next){
+    .wrapper .swiper-button-prev , .wrapper .swiper-button-next {
         display: none;
     }
     
